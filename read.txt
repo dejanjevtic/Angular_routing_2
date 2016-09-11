@@ -1,0 +1,1 @@
+Here, we call factory on the countryApp module. The first argument (countries) of the factory is the name of the service. It returns an object that has a function called list. The function has a callback which will be called when the json data is loaded. In short, here we're introducing a factory called countries.
